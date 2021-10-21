@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f21a3a8ef7d9e48986cdd3114206f9, type: 3}
+  m_Name: attack
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3242974679359624011, guid: 091d6cb6540e2724a946e508f5275a6c, type: 3}
+  backImage: {fileID: 2800000, guid: 488b0f1f92472634d9a468007dcdb8b5, type: 3}
+  frontImage: {fileID: 2800000, guid: 488b0f1f92472634d9a468007dcdb8b5, type: 3}
+  manaCost: 0
+  description: 
+  name: attack
+  power: 1
+  maxHealth: 0
+  damageType: 0
